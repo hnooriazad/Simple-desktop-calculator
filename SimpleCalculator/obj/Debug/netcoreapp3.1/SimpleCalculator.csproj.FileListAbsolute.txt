@@ -1,0 +1,15 @@
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.MainForm.resources
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.GenerateResource.cache
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\Develope\C#\GitProjects\Simple-desktop-calculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
